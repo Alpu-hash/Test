@@ -1,4 +1,5 @@
-# Test
-Test_version
-Today is monday
-Today is october 6
+# Test Project
+Это проект участника курса для задания по Git
+
+## Описание
+Учебный репозиторий для практики работы с Git и GitHub
